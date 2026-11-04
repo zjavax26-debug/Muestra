@@ -1,0 +1,6 @@
+{
+  "name": "SLADE 3 Mobile - Doom Resource Editor",
+  "description": "Concepto adaptado a Android de SLADE 3, el editor de archivos WAD, PK3 y recursos de Doom, con explorador de lumps, interfaz de pestañas, previsualizador de assets, paletas y sintetizador MIDI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
